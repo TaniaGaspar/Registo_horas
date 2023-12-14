@@ -1,0 +1,23 @@
+Hora de entrada: 2023/12/09, 00:28
+Hora de saida: 2023/12/09, 00:28
+Hora de entrada: 2023/12/09, 00:28
+Pausa: 2023/12/09, 00:28
+Pausa: 2023/12/09, 00:28
+Hora de saida: 2023/12/09, 00:28
+ida ao medico
+Hora de entrada: 2023/12/09, 00:28
+Hora de entrada: 2023/12/09, 03:21
+Hora de entrada: 2023/12/09, 03:25
+Pausa: 2023/12/09, 03:25
+Hora de saida: 2023/12/09, 03:25
+Pausa: 2023/12/09, 03:26
+passeio com o cao
+Hora de saida: 2023/12/10, 00:37
+Hora de entrada: 2023/12/11, 23:21
+Pausa: 2023/12/11, 23:21
+
+Hora de entrada: 2023/12/11, 23:21
+
+Hora de saida: 2023/12/11, 23:22
+novo comentario
+Hora de saida: 2023/12/12, 00:55
